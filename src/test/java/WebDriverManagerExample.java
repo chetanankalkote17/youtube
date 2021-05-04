@@ -26,6 +26,7 @@ public class WebDriverManagerExample {
 	{
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
 	}
 	
 	
